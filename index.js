@@ -18,7 +18,7 @@ function subtract(a, b) {
     return a / b;
  }
  
- inc(n);
+ inc(n);{
     
     n++;
  
