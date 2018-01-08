@@ -1,5 +1,3 @@
-var num = (a, b);
-
-function add6(){
-  num += 6;
-}
+let addNum = function(a, b) {
+  return a + b;
+};
