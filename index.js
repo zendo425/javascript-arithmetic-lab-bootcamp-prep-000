@@ -1,4 +1,4 @@
- function addNum(2, 9) {
+ function add(a, b) {
    
   return a + b;
 }
