@@ -33,8 +33,10 @@ return n;
 }
 
 
-function roughScale(x, base) {
-  var parsed = parseInt(x, base);
-  if (isNaN(parsed)) { return 0 }
-  return parsed * 10;
+function makeInt(n) {
+  return parseInt(n, 10);
+}
+
+function preserveDecimal(n) {
+  return parseFloat(n);
 }
