@@ -1,2 +1,2 @@
-var addNum(a,b);
+var x=(a,b);
 
