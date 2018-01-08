@@ -33,8 +33,8 @@ return n;
 }
 
 
-function parsed(n, base) {
-  var parsed = parseInt(n, 12);
+function roughScale(x, base) {
+  var parsed = parseInt(x, base);
   if (isNaN(parsed)) { return 0 }
-  return parsed;
+  return parsed * 10;
 }
