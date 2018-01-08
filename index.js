@@ -32,4 +32,3 @@ n--;
 return n;
 }
 
-parseInt('n', 10);
