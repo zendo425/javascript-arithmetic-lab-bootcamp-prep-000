@@ -19,7 +19,7 @@ function subtract(a, b) {
  }
  
  var number = 260;{
-   number ++;
+   number++;
  }
  
  
