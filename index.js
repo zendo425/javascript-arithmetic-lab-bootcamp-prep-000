@@ -22,4 +22,6 @@ var num = 25;
 function inc(n){
 n++
 
-return num;}
+return n;
+  
+}
