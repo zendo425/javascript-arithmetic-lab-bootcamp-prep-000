@@ -18,3 +18,8 @@ function subtract(a, b) {
     return a / b;
  }
  
+ function increment(a, b){
+    
+    return a += b;
+ }
+ 
