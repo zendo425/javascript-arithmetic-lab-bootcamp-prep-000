@@ -20,7 +20,7 @@ function subtract(a, b) {
  
  var n = 0;
 
-function increment(n){
+function inc(){
 
   n++;
   return n;
