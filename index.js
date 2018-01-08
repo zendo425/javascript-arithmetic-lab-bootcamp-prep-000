@@ -20,10 +20,10 @@ function subtract(a, b) {
  
  var n = 0;
 
-function increment(){
+function increment(n){
 
   n++;
-  return increment();
+  return n;
 }
  
  
