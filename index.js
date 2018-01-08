@@ -1,5 +1,5 @@
-var x=(a,b);
-var a = 5;
-var b = 3;
-return (a + b);
+var num = 8;
 
+function add6(){
+  num += 6;
+}
