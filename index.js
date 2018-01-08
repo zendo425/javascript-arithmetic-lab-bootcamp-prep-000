@@ -23,7 +23,7 @@ function subtract(a, b) {
 function increment(){
 
   n++;
-  return n;
+  return increment();
 }
  
  
