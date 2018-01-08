@@ -18,7 +18,8 @@ function subtract(a, b) {
     return a / b;
  }
  
- function inc(260){
-   return inc++;
+ var number = 260;{
+   number++;
  }
+ 
  
