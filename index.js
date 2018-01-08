@@ -18,11 +18,11 @@ function subtract(a, b) {
     return a / b;
  }
  
- var increment = (function(n) {
-  return function() {
+  {
+  return function() 
     n ++;
     return n;
-  };
+  
  
  
  
