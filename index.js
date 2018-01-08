@@ -8,6 +8,8 @@ function subtract(a, b) {
   return a - b;
 }
 
- y * 2;function myFunction() {
+ function mult(x, y) {
     var y = 5;
-    var x =6;
+    var x = y*2;
+ 
+ 
