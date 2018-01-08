@@ -8,7 +8,7 @@ function subtract(a, b) {
   return a - b;
 }
 
-function quotient(a, b) {
+function mult(a, b) {
    
   return a * b;
 }
