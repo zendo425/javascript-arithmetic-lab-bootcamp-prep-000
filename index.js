@@ -22,4 +22,4 @@ var num = 25;
 
 num++;
 
-return number;
+return num;
