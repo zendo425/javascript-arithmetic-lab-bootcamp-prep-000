@@ -20,7 +20,7 @@ function subtract(a, b) {
  
 var num = 25;
 function inc(n){
-n++
+n++;
 
 return n;
   
