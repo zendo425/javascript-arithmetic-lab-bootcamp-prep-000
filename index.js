@@ -18,8 +18,8 @@ function subtract(a, b) {
     return a / b;
  }
  
- function n(a, b){
+ function inc(a, b){
     
-    n ++;
+    in ++;
  }
  
