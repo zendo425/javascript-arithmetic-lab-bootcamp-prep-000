@@ -8,7 +8,7 @@ function subtract(a, b) {
   return a - b;
 }
 
- function mult(a, b){
+ function multiply(a, b){
     
     return a * b;
  }
