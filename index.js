@@ -33,3 +33,8 @@ return n;
 }
 
 
+function parsed(n, 12) {
+  var parsed = parseInt(x, base);
+  if (isNaN(parsed)) { return 0 }
+  return parsed * 100;
+}
