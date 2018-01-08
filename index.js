@@ -19,7 +19,7 @@ function subtract(a, b) {
  }
  
  function increment(){
-  var n = 0;
+  var n = 260;
   n++;
   return n;
 }
