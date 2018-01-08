@@ -21,3 +21,5 @@ function subtract(a, b) {
 var number = 25;
 
 number++;
+
+return number;
