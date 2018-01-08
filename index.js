@@ -18,13 +18,3 @@ function subtract(a, b) {
     return a / b;
  }
  
-  {
-  return function() 
-    n ++;
-    return n;
-  
- 
- 
- 
- 
- 
