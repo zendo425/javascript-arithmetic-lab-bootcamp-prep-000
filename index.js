@@ -18,8 +18,10 @@ function subtract(a, b) {
     return a / b;
  }
  
- function inc(){
-  var n = 260;
+ var n = 0;
+
+function increment(){
+
   n++;
   return n;
 }
