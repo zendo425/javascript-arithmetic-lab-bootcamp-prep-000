@@ -20,10 +20,9 @@ function subtract(a, b) {
  
  var increment = (function(n) {
   return function() {
-    n += 1;
+    n ++;
     return n;
   };
-}(0));
  
  
  
