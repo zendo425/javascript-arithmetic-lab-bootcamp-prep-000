@@ -18,8 +18,8 @@ function subtract(a, b) {
     return a / b;
  }
  
- var num = 8;
+ inc(n);
     
-    num++;
+    n++;
  
  
