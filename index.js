@@ -1,3 +1,3 @@
-let addNum = function(a, b) {
+ function addNum(a, b) {
   return a + b;
 };
