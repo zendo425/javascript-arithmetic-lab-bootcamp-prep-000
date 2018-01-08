@@ -1,5 +1,4 @@
- function addNum(a, b) {
-   var a = 2;
-   var b = 3;
+ function addNum(2, 9) {
+   
   return a + b;
 }
