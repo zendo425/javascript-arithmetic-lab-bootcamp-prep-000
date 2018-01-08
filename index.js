@@ -18,7 +18,7 @@ function subtract(a, b) {
     return a / b;
  }
  
- function inc(a, b){
+ var num = 8
     
     inc ++;
  }
