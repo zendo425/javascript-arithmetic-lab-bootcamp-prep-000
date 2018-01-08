@@ -7,3 +7,8 @@ function subtract(a, b) {
    
   return a - b;
 }
+
+function quotient(a, b) {
+   
+  return a * b;
+}
