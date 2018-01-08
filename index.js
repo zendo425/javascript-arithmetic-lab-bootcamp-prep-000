@@ -20,6 +20,6 @@ function subtract(a, b) {
  
  function inc(a, b){
     
-    in ++;
+    inc ++;
  }
  
