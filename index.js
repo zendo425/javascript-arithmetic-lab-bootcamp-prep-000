@@ -18,10 +18,9 @@ function subtract(a, b) {
     return a / b;
  }
  
- var n = 0;
+ var num = 0;
 
 function inc(){
-
   n++;
   return n;
 }
