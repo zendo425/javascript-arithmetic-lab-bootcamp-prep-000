@@ -19,6 +19,6 @@ function subtract(a, b) {
  }
  
  function inc(260){
-   return n++;
+   return inc++;
  }
  
