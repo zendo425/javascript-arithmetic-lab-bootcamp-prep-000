@@ -17,9 +17,14 @@ function subtract(a, b) {
     
     return a / b;
  }
- function()
- var number = 260;{
-   number++;
- }
+ 
+ function increment(){
+  var n = 0;
+  n++;
+  return n;
+}
+ 
+ 
+ 
  
  
