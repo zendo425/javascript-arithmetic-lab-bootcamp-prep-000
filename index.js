@@ -32,3 +32,4 @@ n--;
 return n;
 }
 
+parseInt('17', 10);
