@@ -23,5 +23,12 @@ function inc(n){
 n++;
 
 return n;
+}
+
+var num = 25;
+function dec(n){
+n--;
+
+return n;
   
 }
